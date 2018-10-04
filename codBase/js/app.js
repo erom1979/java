@@ -1,4 +1,4 @@
-/*------------------- Ejercicio Lección 4 ------------------------------
+/*------------------- Ejercicio JavaScript examen NextU calculadora ------------------------------
 
 function reducirTamañoBotonAccion(elemento){
   elemento.style.padding = "0.6%";
@@ -30,6 +30,9 @@ var Eventos = {
 }
 
 Eventos.init();
+
+
+
 
 */
 
